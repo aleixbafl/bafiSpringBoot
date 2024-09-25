@@ -1,0 +1,28 @@
+header {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(145deg, rgba(0,5,211,1) 0%, rgba(0,193,255,1) 100%);
+}
+
+header h1 {
+    background: #F7D03D;
+    background: linear-gradient(to bottom right, #F7D03D 25%, #FF0000 75%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+nav {
+    padding-left: 10px !important;
+}
+
+main {
+    padding-top: 20px;
+}
+
+.artPers {
+    background-color: #d3d3d3;
+    padding: 20px;
+    border-radius: 20px;
+}
