@@ -20,9 +20,4 @@ public class MainController {
     public String home(Model model) {
         return "index";
     }
-
-    @GetMapping("/minecraft")
-    public String minecraft(Model model) {
-        return "temes/minecraft";
-    }
 }
