@@ -17,12 +17,15 @@ nav {
     padding-left: 10px !important;
 }
 
-main {
-    padding-top: 20px;
+body {
+    background: #b5b5b5 !important;
 }
 
-.artPers {
-    background-color: #d3d3d3;
-    padding: 20px;
-    border-radius: 20px;
+main {
+    margin: 1% 2%;
+}
+section {
+    padding: 1% 2%;
+    background-color: #ebebeb;
+    border-radius: 10px;
 }
